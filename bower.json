@@ -1,0 +1,19 @@
+{
+  "name": "cisland",
+  "description": "",
+  "main": "",
+  "authors": [
+    "taxet <nichaolun0305@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/taxet/C-island",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ]
+}
